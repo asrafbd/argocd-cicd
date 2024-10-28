@@ -18,7 +18,7 @@ spec:
         app: myweb
     spec:
       containers:
-      - image: asrafbd/webapp:1.0
+      - image: asrafbd/webapp:9-null
         name: myweb
         resources: {}
 status: {}
