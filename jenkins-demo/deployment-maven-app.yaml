@@ -18,7 +18,7 @@ spec:
         app: webapp
     spec:
       containers:
-      - image: asrafbd/java-maven-app:1.0.0-5
+      - image: asrafbd/java-maven-app:1.0.0-8
         name: webapp
         resources: {}
 status: {}
