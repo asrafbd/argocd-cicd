@@ -18,7 +18,7 @@ spec:
         app: myweb
     spec:
       containers:
-      - image: asrafbd/webapp:13-c8e29e7fbe3767e9ed6389dccc30aff5f5389ce4
+      - image: asrafbd/webapp:14-c8e29e7fbe3767e9ed6389dccc30aff5f5389ce4
         name: myweb
         resources: {}
 status: {}
